@@ -5,8 +5,7 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCGkwPMCdr9GB0zKTy2aTgog" target="blank"><img align="center" src="" alt="2xdo" height="20" width="30" /></a>
 <a href="[https://fb.com/M-0x4D](https://www.facebook.com/profile.php?id=100081197894875)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mastefoo" height="20" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mastefoo" height="20" width="30" /></a>
-<a href="mailto:adl774855@gmail.com">
+<a href="mailto:am3507962@gmail.com">
   <img align="center" alt="Falguni @Mail" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
 </a>
 </p>
