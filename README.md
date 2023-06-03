@@ -1,9 +1,9 @@
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;BackEnd+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=web+developer;game+app+developer)](https://git.io/typing-svg)
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/m-0x4d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2xdo" height="20" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCGkwPMCdr9GB0zKTy2aTgog" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.bing.com/ck/a?!&&p=b1cd26c55bf0140bJmltdHM9MTY4NTc1MDQwMCZpZ3VpZD0zZjgxODA1NS1lNjdlLTY1MzQtMmMxNS05MmE4ZTcwOTY0ZjUmaW5zaWQ9NTYxMA&ptn=3&hsh=3&fclid=3f818055-e67e-6534-2c15-92a8e70964f5&u=a1L2ltYWdlcy9zZWFyY2g_cT15b3V0dWJlIGxvZ28mRk9STT1JUUZSQkEmaWQ9MjRDRTk2NTI3QjI5MDQ2ODNCRTY2NDZEMjEwMTJGQjkwNzEzQkZEMQ&ntb=1)" alt="2xdo" height="20" width="30" /></a>
 <a href="https://fb.com/M-0x4D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mastefoo" height="20" width="30" /></a>
 <a href="mailto:adl774855@gmail.com">
   <img align="center" alt="Falguni @Mail" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
